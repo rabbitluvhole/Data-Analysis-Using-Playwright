@@ -10,6 +10,7 @@ This tool is designed to scrape data on motorcycles sold in Malaysia from the **
   - Motorcycle make year
 
 - Saves the scraped data into structured formats like **CSV** for further analysis.
+- Able to scrape multiple pages based on limit set.
 
 
 ## Prerequisites
@@ -23,9 +24,6 @@ To install the required libraries, run:
 ```bash
 pip install playwright
 ```
-
-## Future Enhancements
-- Implement pagination 
 
 ## Contributing
 Feel free to submit issues or pull requests to enhance the functionality of this tool.
